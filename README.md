@@ -2,6 +2,17 @@
 
 End-to-end encrypted messaging app built with Flutter in 3 days as a proof-of-concept MVP.
 
+<p align="center">
+  <img src="screenshots/chat_page.jpeg" width="180" />
+  <img src="screenshots/draw_screen.jpeg" width="180" />
+  <img src="screenshots/sticker_studio.jpeg" width="180" />
+  <img src="screenshots/gifs.jpeg" width="180" />
+</p>
+<p align="center">
+  <img src="screenshots/chat_settings.jpeg" width="180" />
+  <img src="screenshots/what_ram_sees.jpeg" width="180" />
+</p>
+
 ## What It Does
 
 A privacy-first chat app with a dual-layer encryption system designed to protect messages against server compromise, RAM-scraping malware, and keylogging trojans.
